@@ -253,9 +253,13 @@ la:hover {
 
 .footer-basic {
   position: fixed;
-  height: 100px;
+  height: 73px;
   bottom: 0;
-    width: 100%
+  width: 100%
+}
+
+div#sfck27z84l1zrm4qt7ghkwu6brpqjk87lp9{
+  text-align: start;
 }
 
 @media only screen and (max-device-width: 480px) {
